@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0077B5&size=32&center=true&vCenter=true&width=700&height=70&lines=Senior+Cloud+Reliability+Engineer;20%2B+Years+Building+Scalable+Platforms;Kubernetes+%7C+GitOps+%7C+Security+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0077B5&size=32&center=true&vCenter=true&width=700&height=70&lines=Senior+Cloud+Reliability+Engineer;20%2B+Years+Building+Scalable+Platforms;K8s+%7C+GitOps+%7C+Security+Automation">
 </p>
 
 <p align="center">
